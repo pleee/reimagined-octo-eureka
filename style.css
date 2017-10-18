@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=family=Cabin');
+
+.kontener {
+ float: center;
+width: 900px;
+height:725 px;
+  }
+.start {
+ float: center;
+width: 900px;
+height:427px;
+font-family: 'Lobster', cursive;
+font-size:120px;
+color: #FFFFFF;
+text-align: center;
+background: url('a1f72568638dcee1bc1cb5f83502a9d9--dice-blue-train.jpg')
+  }
+
+.name {
+ float: center;
+width: 900px;
+height:50px;
+font-family: 'Lobster', cursive;
+font-size:25px;
+color: #FFFFFF;
+text-align: center;
+background-color:#000000;
+  }
+.whostart {
+ float: center;
+width: 900px;
+height:200px;
+font-family: 'Lobster', cursive;
+font-size:50px;
+color: #FFFFFF;
+text-align: center;
+background-color:#000000;
+  }
+.rules {
+ float: center;
+width: 900px;
+height:200px;
+font-family: 'Cabin', cursive;
+font-size:20px;
+color: #FFFFFF;
+text-align: left;
+background-color:#000000;
+  }
